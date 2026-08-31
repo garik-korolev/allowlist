@@ -1,3 +1,5 @@
 #Bosch parts
-emea.dxtservice.com
-dxtservice.com
+*.emea.dxtservice.com
+*.dxtservice.com
+dock.ui.bosch.tech
+boschaftermarket.com
