@@ -1,22 +1,51 @@
+# STMicroelectronics
 54.194.135.49/32
-13.226.209.59/32
-13.226.209.81/32
-13.226.209.83/32
-13.226.209.103/32
+
+# OneTrust
 104.18.86.42/32
 104.18.87.42/32
 104.18.32.137/32
 172.64.155.119/32
+
+# Akamai / mPulse
+184.25.62.170/32
+
+# Decibel Insight / Medallia
 144.24.190.49/32
+
+# STMicroelectronics Community / AWS CloudFront
+13.226.209.59/32
+13.226.209.81/32
+13.226.209.83/32
+13.226.209.103/32
+
+# Scribd / Fastly
 151.101.2.152/32
 151.101.66.152/32
 151.101.130.152/32
 151.101.194.152/32
+
+# Ultra Librarian
 23.185.0.4/32
+
+# TE Connectivity
 198.175.155.8/32
-23.212.11.70/32
+
+# RS Components / Akamai
+104.110.136.240/32
+
+# Farnell
+193.240.59.150/32
+
+# Digi-Key / Cloudflare
 104.18.22.96/32
 104.18.23.96/32
+
+# Texas Instruments
 198.47.23.159/32
+
+# Texas Instruments E2E / Akamai
 104.94.124.7/32
+
+# Analog Devices
 137.71.173.128/32
